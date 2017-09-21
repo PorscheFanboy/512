@@ -1,4 +1,4 @@
-grant codeBase "file:/Users/shabirmean/Desktop/COMP512-PG1/servercode" {
+grant codeBase "file:/512/servercode" {
     permission java.security.AllPermission;
 };
 
